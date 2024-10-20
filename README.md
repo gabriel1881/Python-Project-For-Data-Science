@@ -23,5 +23,5 @@ The final project involves the complete data analysis process using Python. The 
 
 ### Link to the Watson Proyect
 
-- **View the visualizations here: 
-- **[Python 3.x**: Core language for the project.](https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0fb441d5-6780-43bf-8ac7-4b823c5a147c/view?access_token=c6766f450528abaf31a7469bfa213a9c6dba489001140a6c045965174c18eacd)
+- View the visualizations here: 
+- [Python 3.x**: Core language for the project.](https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0fb441d5-6780-43bf-8ac7-4b823c5a147c/view?access_token=c6766f450528abaf31a7469bfa213a9c6dba489001140a6c045965174c18eacd)
